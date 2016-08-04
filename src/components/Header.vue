@@ -46,6 +46,8 @@
   .title .fa {
     font-size: 15px;
     color: hotpink;
+    display: inline-block;
+    padding: 0 1px;
   }
 
   .nav {

@@ -3,7 +3,7 @@
     <span class="meta-label"><i class="fa fa-train"></i> {{totalCity}} Cities</span>
     <span class="meta-label"><i class="fa fa-plane"></i> {{totalCountry}} Countries</span>
   </div>
-  <tr-list :list="list"></tr-list>
+  <tr-list :list="list" :type="type"></tr-list>
 </template>
 
 <script>
@@ -15,6 +15,7 @@
     },
     data() {
       return {
+        type: 'history',
         list: []
       };
     },

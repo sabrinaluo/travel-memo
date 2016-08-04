@@ -1,6 +1,6 @@
 <template>
   <ul class="main-list">
-    <tr-list-item v-for="item in list" :item="item"></tr-list-item>
+    <tr-list-item v-for="item in list" :item="item" :type="type"></tr-list-item>
   </ul>
 </template>
 
@@ -12,6 +12,10 @@
       name: 'list',
       type: Array,
       default: () => []
+    }, {
+      name: 'type',
+      type: String,
+      default: ''
     }],
     components: {
       TrListItem
