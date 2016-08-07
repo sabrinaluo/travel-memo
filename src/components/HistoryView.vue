@@ -3,12 +3,15 @@
     <span class="meta-label"><i class="fa fa-train"></i> {{totalCity}} Cities</span>
     <span class="meta-label"><i class="fa fa-plane"></i> {{totalCountry}} Countries</span>
   </div>
-  <tr-list :list="list" :type="type"></tr-list>
+  <tr-list :list="list" :type="type" keep-alive></tr-list>
 </template>
 
 <script>
   import TrList from './List';
   import Bus from '../bus';
+  import History from '../stores/history';
+  import helper from '../helper';
+
   export default{
     components: {
       TrList
@@ -16,15 +19,25 @@
     data() {
       return {
         type: 'history',
-        list: []
+        list: [],
+        totalCity: 10,
+        totalCountry: 3
       };
     },
-    ready() {
-
+    methods: {
+      updateMarkers() {
+        Bus.$emit('markers', this.list);
+      }
+    },
+    created() {
+      History.get().then(data => {
+        this.list = data.list.map(helper.getDetail).reverse(); // Array.map
+        this.updateMarkers();
+      });
     },
     route: {
       activate() {
-        Bus.$emit('marker', 321);
+        this.updateMarkers();
       }
     }
   };

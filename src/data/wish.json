@@ -1,0 +1,76 @@
+[
+  {
+    "city": "Hainan",
+    "placeId": "ChIJpdA4dTgDTzER9tAWQRQTSbg",
+    "address": "Hainan, China"
+  },
+  {
+    "city": "Fenghuang",
+    "placeId": "ChIJU7AqpP99lzYRxiv3b5fuAOs",
+    "address": "Fenghuang, Xiangxi, Hunan, China"
+  },
+  {
+    "city": "United States",
+    "placeId": "ChIJCzYy5IS16lQRQrfeQ5K5Oxw",
+    "address": "United States"
+  },
+  {
+    "city": "Bali",
+    "placeId": "ChIJoQ8Q6NNB0S0RkOYkS7EPkSQ",
+    "address": "Bali, Indonesia"
+  },
+  {
+    "city": "Dumaguete",
+    "placeId": "ChIJ96COeNtuqzMR-zf8W5v-ndc",
+    "address": "Dumaguete, Negros Oriental, Philippines"
+  },
+  {
+    "city": "Turkey",
+    "placeId": "ChIJcSZPllwVsBQRKl9iKtTb2UA",
+    "address": "Turkey"
+  },
+  {
+    "city": "Singapore",
+    "placeId": "ChIJdZOLiiMR2jERxPWrUs9peIg",
+    "address": "Singapore"
+  },
+  {
+    "city": "Tibet",
+    "placeId": "ChIJwSxKnH4xYTcRmdoThGIswR8",
+    "address": "Tibet, China"
+  },
+  {
+    "city": "Taipei",
+    "placeId": "ChIJmQrivHKsQjQR4MIK3c41aj8",
+    "address": "Taipei, New Taipei City, Taiwan",
+    "isFulfilled": true
+  },
+  {
+    "city": "Harbin",
+    "placeId": "ChIJYRRkpvhkQ14R1SygWnOSfF4",
+    "address": "Harbin, Heilongjiang, China",
+    "isFulfilled": true
+  },
+  {
+    "city": "Australia",
+    "placeId": "ChIJ38WHZwf9KysRUhNblaFnglM",
+    "address": "Australia"
+  },
+  {
+    "city": "Maldives",
+    "placeId": "ChIJvXv7qr-ZtSQRiWKVgeEJRUE",
+    "address": "Maldives"
+  },
+  {
+    "city": "Lijiang",
+    "placeId": "ChIJ6dMLQOavIDcRqF1HPYNY1Lg",
+    "address": "Lijiang, Yunnan, China",
+    "isFulfilled": true
+  },
+  {
+    "city": "Shanghai",
+    "placeId": "ChIJMzz1sUBwsjURoWTDI5QSlQI",
+    "address": "Shanghai, Shanghai, China",
+    "isFulfilled": true
+  }
+]

@@ -1,14 +1,19 @@
 <template>
   <map :center.sync="center"
        :zoom.sync="zoom"
-       :options="{streetViewControl:false, mapTypeControl:false, minZoom:1, maxZoom:7}">
-    <marker v-for="m in markers" :position.sync="m.position"></marker>
+       :options="{streetViewControl:false, mapTypeControl:false, minZoom:1, maxZoom:7}"
+       v-ref:map-instance>
+    <marker v-for="m in markers"
+            :position.sync="m.location"
+            :icon.sync="icon">
+    </marker>
   </map>
 </template>
 
 <script>
   import {load, Map, Marker} from 'vue-google-maps';
   import Bus from '../bus';
+  import util from '../helper';
 
   load('AIzaSyDqlKEyzsqd7NurGJN75VEOoJjRH3hMLAg');
 
@@ -30,12 +35,26 @@
     components: {
       Map, Marker
     },
-    methods: {
-
+    data() {
+      return {
+        icon: {
+          url: '//maps.gstatic.com/mapfiles/ridefinder-images/mm_20_orange.png'
+        }
+      };
     },
-    ready() {
+    methods: {
+      fitBounds() {
+        var map = this.$refs.mapInstance;
+        map.mapCreated.then(() => {
+          var bounds = util.getBounds(this.markers);
+          map.fitBounds(bounds);
+        });
+      }
+    },
+    created() {
       Bus.$on('markers', markers => {
         this.markers = markers;
+        this.fitBounds();
       });
     }
   };

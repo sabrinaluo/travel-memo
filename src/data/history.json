@@ -1,0 +1,417 @@
+{
+  "list": [
+    {
+      "date": "1990-01",
+      "city": "Qujing",
+      "placeId": "ChIJv_gwtaEfxTYRDhaXADtzRQc",
+      "address": "Qujing, Yunnan, China",
+      "country": "China"
+    },
+    {
+      "date": "1995",
+      "city": "Guilin",
+      "placeId": "ChIJM1EhdTb0pDYR4UpwHRnBhv8",
+      "address": "Guilin, Guangxi, China",
+      "country": "China"
+    },
+    {
+      "date": "1995",
+      "city": "Beihai",
+      "placeId": "ChIJ_b5B-LE0TTER0WEXA8n5gDY",
+      "address": "Beihai, Guangxi, China",
+      "country": "China"
+    },
+    {
+      "date": "1998",
+      "city": "Baoji",
+      "placeId": "ChIJ6ZCbaAPdYDYRVyMhVjeyeOs",
+      "address": "Baoji, Shaanxi, China",
+      "country": "China"
+    },
+    {
+      "date": "1998",
+      "city": "Zhangye",
+      "placeId": "ChIJ73K1ws1btDcRAgElgPDLVW4",
+      "address": "Zhangye, Gansu, China",
+      "country": "China"
+    },
+    {
+      "date": "2000-07",
+      "city": "Beijing",
+      "placeId": "ChIJuSwU55ZS8DURiqkPryBWYrk",
+      "address": "Beijing, Beijing, China",
+      "country": "China"
+    },
+    {
+      "date": "2008-09",
+      "city": "Beijing",
+      "placeId": "ChIJuSwU55ZS8DURiqkPryBWYrk",
+      "address": "Beijing, Beijing, China",
+      "country": "China"
+    },
+    {
+      "date": "2009-10",
+      "city": "Taishan Mountain",
+      "placeId": "ChIJs4CKJ6MowjUR4ZnNCTrbCVs",
+      "address": "Taishan Mountain, Taishan, Tai'an, China",
+      "country": "China"
+    },
+    {
+      "date": "2009-10",
+      "city": "Jinan",
+      "placeId": "ChIJE-qsHbkFwjURVEjOPZZQMGE",
+      "address": "Jinan, Shandong, China",
+      "country": "China"
+    },
+    {
+      "date": "2010-04",
+      "city": "Tianjin",
+      "placeId": "ChIJhw4sHmL87TURMUCIMLeUcYQ",
+      "address": "Tianjin, Tianjin, China",
+      "country": "China"
+    },
+    {
+      "date": "2010-08",
+      "city": "Zhangye",
+      "placeId": "ChIJ73K1ws1btDcRAgElgPDLVW4",
+      "address": "Zhangye, Gansu, China",
+      "country": "China"
+    },
+    {
+      "date": "2010-08",
+      "city": "Dunhuang",
+      "placeId": "ChIJMXJzSkrB6jcRcsi_xsC_YXQ",
+      "address": "Dunhuang, Jiuquan, Gansu, China",
+      "country": "China"
+    },
+    {
+      "date": "2010-10",
+      "city": "Qingdao",
+      "placeId": "ChIJa_D4gtUPljUR8_JMYfqCTWE",
+      "address": "Qingdao, Shandong, China",
+      "country": "China"
+    },
+    {
+      "date": "2011-04",
+      "city": "Shanghai",
+      "placeId": "ChIJMzz1sUBwsjURoWTDI5QSlQI",
+      "address": "Shanghai, Shanghai, China",
+      "country": "China"
+    },
+    {
+      "date": "2012-02",
+      "city": "Dali",
+      "placeId": "ChIJt1faVaO4JzcRVrjXyfaoTtw",
+      "address": "Dali, Yunnan, China",
+      "country": "China"
+    },
+    {
+      "date": "2012-02",
+      "city": "Lijiang",
+      "placeId": "ChIJ6dMLQOavIDcRqF1HPYNY1Lg",
+      "address": "Lijiang, Yunnan, China",
+      "country": "China"
+    },
+    {
+      "date": "2012-02",
+      "city": "Shuanglangzhen",
+      "placeId": "ChIJh8zyEwujJzcRH9sAXP0WWbI",
+      "address": "Shuanglangzhen, Dali, Dali, Yunnan, China, 671000",
+      "country": "671009"
+    },
+    {
+      "date": "2012-06",
+      "city": "Zhengzhou",
+      "placeId": "ChIJnWqb8JRl1zURLO3M9BnuMnk",
+      "address": "Zhengzhou, Henan, China",
+      "country": "China"
+    },
+    {
+      "date": "2012-06",
+      "city": "Chongqing",
+      "placeId": "ChIJQ0_m87o0kzYRIbOI3BaGn94",
+      "address": "Chongqing, Chongqing, China",
+      "country": "China"
+    },
+    {
+      "date": "2012-06",
+      "city": "Chengdu",
+      "placeId": "ChIJIXdEACPF7zYRAg4kLs5Shrk",
+      "address": "Chengdu, Sichuan, China",
+      "country": "China"
+    },
+    {
+      "date": "2012-06",
+      "city": "Tianjin",
+      "placeId": "ChIJhw4sHmL87TURMUCIMLeUcYQ",
+      "address": "Tianjin, Tianjin, China",
+      "country": "China"
+    },
+    {
+      "date": "2012-06",
+      "city": "Beidaihe",
+      "placeId": "ChIJXUT4imh_jDURBHiUKgJjOmw",
+      "address": "Beidaihe, Qinhuangdao, Hebei, China",
+      "country": "China"
+    },
+    {
+      "date": "2012-07",
+      "city": "Xiamen",
+      "placeId": "ChIJJ-u_5XmDFDQRVtBolgpnoCg",
+      "address": "Xiamen, Fujian, China",
+      "country": "China"
+    },
+    {
+      "date": "2012-09",
+      "city": "Hong Kong",
+      "placeId": "ChIJD5gyo-3iAzQRfMnq27qzivA",
+      "address": "Hong Kong",
+      "country": "Hong Kong"
+    },
+    {
+      "date": "2012-10",
+      "city": "Shenzhen",
+      "placeId": "ChIJkVLh0Aj0AzQRyYCStw1V7v0",
+      "address": "Shenzhen, Guangdong, China",
+      "country": "China"
+    },
+    {
+      "date": "2013-01",
+      "city": "Harbin",
+      "placeId": "ChIJYRRkpvhkQ14R1SygWnOSfF4",
+      "address": "Harbin, Heilongjiang, China",
+      "country": "China"
+    },
+    {
+      "date": "2013-04",
+      "city": "Wuhan",
+      "placeId": "ChIJb_KF3fiuLjQRECJYbKzJwjk",
+      "address": "Wuhan, Hubei, China",
+      "country": "China"
+    },
+    {
+      "date": "2013-05",
+      "city": "Tainan City",
+      "placeId": "ChIJE_4_lcx8bjQRTnbcpapMf9Q",
+      "address": "Tainan City, Taiwan",
+      "country": "Taiwan"
+    },
+    {
+      "date": "2013-05",
+      "city": "Chiayi County",
+      "placeId": "ChIJUaq7v1frbjQRNXYqVp3u5Zc",
+      "address": "Chiayi County, Taiwan",
+      "country": "Taiwan"
+    },
+    {
+      "date": "2013-05",
+      "city": "Taichung City",
+      "placeId": "ChIJ7yJ5-d8XaTQRf0SmfuQ-Uoc",
+      "address": "Taichung City, Taiwan",
+      "country": "Taiwan"
+    },
+    {
+      "date": "2013-05",
+      "city": "Kaohsiung City",
+      "placeId": "ChIJG3R6elFDbjQRNypzVEqiJkg",
+      "address": "Kaohsiung City, Taiwan",
+      "country": "Taiwan"
+    },
+    {
+      "date": "2013-05",
+      "city": "Kending Road",
+      "placeId": "ChIJzdpj34-xcTQR3qu0eqglj0U",
+      "address": "Kending Rd, Hengchun Township, Pingtung County, Taiwan 946",
+      "country": "946"
+    },
+    {
+      "date": "2013-05",
+      "city": "Taipei",
+      "placeId": "ChIJmQrivHKsQjQR4MIK3c41aj8",
+      "address": "Taipei, New Taipei City, Taiwan",
+      "country": "Taiwan"
+    },
+    {
+      "date": "2013-05",
+      "city": "Hualien County",
+      "placeId": "ChIJAxIodMGzaDQRcx386sY33lo",
+      "address": "Hualien County, Taiwan",
+      "country": "Taiwan"
+    },
+    {
+      "date": "2013-07",
+      "city": "Macau",
+      "placeId": "ChIJ88g14uB6ATQR9qyFtCzje8Y",
+      "address": "Macau",
+      "country": "Macau"
+    },
+    {
+      "date": "2013-08",
+      "city": "Macau",
+      "placeId": "ChIJ88g14uB6ATQR9qyFtCzje8Y",
+      "address": "Macau",
+      "country": "Macau"
+    },
+    {
+      "date": "2013-10",
+      "city": "Guangzhou",
+      "placeId": "ChIJxytco5X4AjQRFeTqrXXgWQ4",
+      "address": "Guangzhou, Guangdong, China",
+      "country": "China"
+    },
+    {
+      "date": "2014-06",
+      "city": "Guangzhou",
+      "placeId": "ChIJxytco5X4AjQRFeTqrXXgWQ4",
+      "address": "Guangzhou, Guangdong, China",
+      "country": "China"
+    },
+    {
+      "date": "2014-09",
+      "city": "Chiang Mai",
+      "placeId": "ChIJXW-7kH462jARZ0ObpXBi1Jg",
+      "address": "Chiang Mai, Mueang Chiang Mai District, Chiang Mai, Thailand",
+      "country": "Thailand"
+    },
+    {
+      "date": "2014-09",
+      "city": "Bangkok",
+      "placeId": "ChIJ82ENKDJgHTERIEjiXbIAAQE",
+      "address": "Bangkok, Thailand",
+      "country": "Thailand"
+    },
+    {
+      "date": "2014-12",
+      "city": "Xiamen",
+      "placeId": "ChIJJ-u_5XmDFDQRVtBolgpnoCg",
+      "address": "Xiamen, Fujian, China",
+      "country": "China"
+    },
+    {
+      "date": "2015-03",
+      "city": "Hangzhou",
+      "placeId": "ChIJmaqaQym2SzQROuhNgoPRv6c",
+      "address": "Hangzhou, Zhejiang, China",
+      "country": "China"
+    },
+    {
+      "date": "2015-03",
+      "city": "Beijing",
+      "placeId": "ChIJuSwU55ZS8DURiqkPryBWYrk",
+      "address": "Beijing, Beijing, China",
+      "country": "China"
+    },
+    {
+      "date": "2015-03",
+      "city": "Shanghai",
+      "placeId": "ChIJMzz1sUBwsjURoWTDI5QSlQI",
+      "address": "Shanghai, Shanghai, China",
+      "country": "China"
+    },
+    {
+      "date": "2015-04",
+      "city": "Kyoto",
+      "placeId": "ChIJ8cM8zdaoAWARPR27azYdlsA",
+      "address": "Kyoto, Kyoto Prefecture, Japan",
+      "country": "Japan"
+    },
+    {
+      "date": "2015-04",
+      "city": "Nara",
+      "placeId": "ChIJwQyneMU3AWARIiZJubDZ_ko",
+      "address": "Nara, Nara Prefecture, Japan",
+      "country": "Japan"
+    },
+    {
+      "date": "2015-04",
+      "city": "Osaka",
+      "placeId": "ChIJ4eIGNFXmAGAR5y9q5G7BW8U",
+      "address": "Osaka, Osaka Prefecture, Japan",
+      "country": "Japan"
+    },
+    {
+      "date": "2015-04",
+      "city": "Tokyo",
+      "placeId": "ChIJ51cu8IcbXWARiRtXIothAS4",
+      "address": "Tokyo, Japan",
+      "country": "Japan"
+    },
+    {
+      "date": "2015-10",
+      "city": "Kunming",
+      "placeId": "ChIJy9MnEsOD0DYRNgpPmKTzscw",
+      "address": "Kunming, Yunnan, China",
+      "country": "China"
+    },
+    {
+      "date": "2015-10",
+      "city": "Dali",
+      "placeId": "ChIJt1faVaO4JzcRVrjXyfaoTtw",
+      "address": "Dali, Yunnan, China",
+      "country": "China"
+    },
+    {
+      "date": "2015-10",
+      "city": "Guiyang",
+      "placeId": "ChIJNxvsVcNnvzYRVWQx2MCBMxc",
+      "address": "Guiyang, Guizhou, China",
+      "country": "China"
+    },
+    {
+      "date": "2015-10",
+      "city": "Da Nang",
+      "placeId": "ChIJEyolkscZQjERh2RDRKDjFPw",
+      "address": "Da Nang, Hải Châu District, Da Nang, Vietnam",
+      "country": "Vietnam"
+    },
+    {
+      "date": "2015-10",
+      "city": "Shuanglangzhen",
+      "placeId": "ChIJh8zyEwujJzcRH9sAXP0WWbI",
+      "address": "Shuanglangzhen, Dali, Dali, Yunnan, China, 671000",
+      "country": "671009"
+    },
+    {
+      "date": "2015-10",
+      "city": "tp. Hội An",
+      "placeId": "ChIJezo14dQNQjERo8zfXkM24wo",
+      "address": "tp. Hội An, Quảng Nam, Vietnam",
+      "country": "Vietnam"
+    },
+    {
+      "date": "2015-10",
+      "city": "Hanoi",
+      "placeId": "ChIJoRyG2ZurNTERqRfKcnt_iOc",
+      "address": "Hanoi, Hoàn Kiếm, Hanoi, Vietnam",
+      "country": "Vietnam"
+    },
+    {
+      "date": "2015-10",
+      "city": "Ho Chi Minh City",
+      "placeId": "ChIJ0T2NLikpdTERKxE8d61aX_E",
+      "address": "Ho Chi Minh City, Ho Chi Minh 70000, Vietnam",
+      "country": "70000"
+    },
+    {
+      "date": "2016-02",
+      "city": "Xiamen",
+      "placeId": "ChIJJ-u_5XmDFDQRVtBolgpnoCg",
+      "address": "Xiamen, Fujian, China",
+      "country": "China"
+    },
+    {
+      "date": "2016-03",
+      "city": "Yangshuo",
+      "placeId": "ChIJZVKVEX6lpTYRBQDurljkC0c",
+      "address": "Yangshuo, Guilin, Guangxi, China",
+      "country": "China"
+    },
+    {
+      "date": "2016-03",
+      "city": "Guilin",
+      "placeId": "ChIJM1EhdTb0pDYR4UpwHRnBhv8",
+      "address": "Guilin, Guangxi, China",
+      "country": "China"
+    }
+  ]
+}

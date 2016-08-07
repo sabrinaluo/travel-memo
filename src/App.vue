@@ -2,7 +2,7 @@
   <tr-header></tr-header>
   <div class="container">
     <tr-map></tr-map>
-    <router-view></router-view>
+    <router-view keep-alive></router-view>
   </div>
   <tr-footer></tr-footer>
 </template>

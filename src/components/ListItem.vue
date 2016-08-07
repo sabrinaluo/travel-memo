@@ -7,8 +7,8 @@
     <div class="card-meta">
       <span class="date" v-if="item.date">{{item.date}}</span>
       <span class="heart" v-if="type==='wish'">
-        <i class="fa fa-heart" v-if="item.done"></i>
-        <i class="fa fa-heart-o" v-if="!item.done"></i>
+        <i class="fa fa-heart" v-if="item.isFulfilled"></i>
+        <i class="fa fa-heart-o" v-if="!item.isFulfilled"></i>
       </span>
     </div>
     <p class="note" v-if="item.note">{{item.note}}</p>
