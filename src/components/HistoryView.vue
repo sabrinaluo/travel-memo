@@ -20,8 +20,8 @@
       return {
         type: 'history',
         list: [],
-        totalCity: 10,
-        totalCountry: 3
+        totalCity: 47,
+        totalCountry: 8
       };
     },
     methods: {
