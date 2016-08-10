@@ -62,7 +62,8 @@
 
 <style>
   map {
-    height: 450px;
+    height: 350px;
+    height: 50vh;
     width: 100%;
     display: block;
     margin-top: 44px;
